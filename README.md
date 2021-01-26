@@ -1,5 +1,4 @@
 ![](https://github.com/1uiscalderon/1uiscalderon/blob/main/images/world-of-warcraft-orgrimmar-cinematic-banner.jpg)
-For the Horde!!.
 
 Striving to maintain the perfect balance between `It doesn't work...! Why?` vs `It works...! Why?`.
 
